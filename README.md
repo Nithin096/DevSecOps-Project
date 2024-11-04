@@ -1,3 +1,6 @@
+contact me if any issue but try to solve it
+linkedin: Karipalli Nithin
+
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
